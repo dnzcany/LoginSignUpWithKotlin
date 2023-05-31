@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "419627975278",
+    "project_id": "oylesine-164e5",
+    "storage_bucket": "oylesine-164e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419627975278:android:63fb00a42f3c0060779c7f",
+        "android_client_info": {
+          "package_name": "com.denobaba.loginandsignup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPXfrXVJAeA3fictPRLTiLbyXtX8fF9Mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
