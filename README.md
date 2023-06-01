@@ -10,11 +10,18 @@ Login And Sign Up App With Firebase And Kotlin With Modern Desing
 - Native Android App
 
 
+## For Testing
+{
+    "email": deniz1234@gmail.com
+    "password": deniz1234
+}
+
+
+
 ## Screenshots
 
-![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/64mjnmf.png)
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/64mjnmf.png) ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/jjq2uf6.png)
 
-![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/jjq2uf6.png)
 
 
 ## Feedback
