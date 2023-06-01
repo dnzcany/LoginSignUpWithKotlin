@@ -20,7 +20,7 @@ Login And Sign Up App With Firebase And Kotlin With Modern Desing
 
 ## Screenshots
 
-![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/64mjnmf.png) ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/jjq2uf6.png)
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/64mjnmf.png) ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/jjq2uf6.png) ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/t2f1xgk.png)
 
 
 
