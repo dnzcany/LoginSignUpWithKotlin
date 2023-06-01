@@ -42,7 +42,7 @@ class MainActivity : AppCompatActivity() {
                             val name = i.get("name") as String
                             val email = i.get("email") as String
                             if(email== auth.currentUser?.email){
-                                binding.textView.setText(name)
+                                binding.textView.setText("Welcome $name")
                             }
                         }
                     }
